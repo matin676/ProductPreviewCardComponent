@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ProductPreviewCardComponent/tree/main/reactapp/static/css/main.0e342521.css",
+    "main.js": "/ProductPreviewCardComponent/tree/main/reactapp/static/js/main.933adf4b.js",
+    "static/media/image-product-mobile.jpg": "/ProductPreviewCardComponent/tree/main/reactapp/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/ProductPreviewCardComponent/tree/main/reactapp/index.html",
+    "main.0e342521.css.map": "/ProductPreviewCardComponent/tree/main/reactapp/static/css/main.0e342521.css.map",
+    "main.933adf4b.js.map": "/ProductPreviewCardComponent/tree/main/reactapp/static/js/main.933adf4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e342521.css",
+    "static/js/main.933adf4b.js"
+  ]
+}
